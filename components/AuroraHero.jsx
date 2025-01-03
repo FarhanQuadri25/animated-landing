@@ -7,7 +7,6 @@ import {
 } from "motion/react";
 import { useEffect } from "react";
 import { FiArrowRight } from "react-icons/fi";
-import { Canvas } from "@react-three/fiber";
 
 const AuroraHero = () => {
   const COLORS = ["#13FFAA", "#524dff", "#df2482", "#DD335C"];
